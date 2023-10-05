@@ -4,4 +4,4 @@ After some careful research, you have located a beautiful location in the Badlan
 INPUT:
 The first line of the input contains two integers (1 <= n <= 10) and t(1<=t<=10^5), where n is the number of desired photographs and t is the time you spend to take each photograph. Following that are n additional lines, each describing the available time period for one of the photographs. Each such line contains two nonnegative integers a and b, where a is the earliest time that you may begin working on that photograph,and b is the time by which the photograph must be completed with a+t<=b<=10^9
 OUTPUT:
-Display yen if it is possible to take all n photographs, and no otherwise.
+Display yes if it is possible to take all n photographs, and no otherwise.
